@@ -1,6 +1,6 @@
 # kkd-1093.github.io
 
-KKD App Studio(개인 개발자)의 대표 웹사이트다. 주소: https://kkd-1093.github.io/
+Gyeongdae Kim(개인 개발자)의 대표 웹사이트다. 주소: https://kkd-1093.github.io/
 
 - 첫 화면(`index.html`): 앱 목록과 연락처. 스토어의 "개발자 웹사이트"에 이 주소를 적는다.
 - `app-ads.txt`: 이 개발자의 앱 광고를 팔 수 있는 곳(AdMob 계정)을 밝힌다. 광고 업계 표준(IAB)이라 도메인 맨 위에 있어야 한다. 모든 앱이 함께 쓴다.
